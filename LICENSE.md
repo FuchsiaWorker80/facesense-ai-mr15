@@ -1,4 +1,4 @@
-# 
+# Native FaceSense downloader. Download and install with no-dependencies and pre-configured — fast, secure, and easy to use.
 
 
 
